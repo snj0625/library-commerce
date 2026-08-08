@@ -1,0 +1,19 @@
+.recommended{
+  flex-basis: 30%;
+}
+.side-book-list{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+.side-book-list img{
+  flex-basis: 49%;
+  width: 50%;
+}
+.book-info{
+  flex-basis: 49%;
+}
+.book-info h4{
+  font-size: 13px;
+  margin-bottom: 5px;
+}
